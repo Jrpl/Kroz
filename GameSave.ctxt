@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=point
+comment0.target=void\ SaveGame(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ LoadGame()
+numComments=2
